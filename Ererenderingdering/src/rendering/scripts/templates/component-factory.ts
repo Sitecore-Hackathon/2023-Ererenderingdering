@@ -116,7 +116,7 @@ function baseComponentFactory(componentName: string, exportName?: string, isEdit
   }
 
   if (exportName) {
-    if(exportName == 'Variant1'){
+    if(exportName == 'JSX'){
       return Jsx.default;
     }
     return component[exportName];
