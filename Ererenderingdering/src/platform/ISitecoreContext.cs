@@ -1,6 +1,6 @@
 ﻿using Sitecore.Data;
 
-namespace Ererenderingdering
+namespace Ererenderingdering.Foundation.VariantJsx
 {
     public interface ISitecoreContext
     {

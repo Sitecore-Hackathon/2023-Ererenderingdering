@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Sitecore.DependencyInjection;
 
-namespace Ererenderingdering.DependencyInjection
+namespace Ererenderingdering.Foundation.VariantJsx.DependencyInjection
 {
     public class ServicesConfigurator : IServicesConfigurator
     {
