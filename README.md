@@ -35,42 +35,6 @@ We decided to make rendering variant more feature equal to "classic" SXA. We dec
 #### Flow diagram
 ![Flow](docs/images/Flow.png?raw=true "Flow")
 
-### Supported JSX syntax
-
-#### Supported JSX components
-
-1. `JssImage` - renders an image from Sitecore media library
-  Sample of usage `<JssImage field={props.fields.Image} />`
-2. `JssLink` - renders a link from Sitecore
-  Sample of usage `<JssLink field={props.fields.Link} />`
-3. `Text` - renders a text field from Sitecore
-  Sample of usage `<Text field={props.fields.Title} />`
-4. `RichText` - renders a rich text field from Sitecore
-  Sample of usage `<RichText field={props.fields.Description} />`
-
-#### Available bindings
-
-1. `props` - component props. Allows to access Sitecore fields and other data
-   Sample of usage `props.fields.Title`
-2. `sitecoreContext` - Sitecore context. Allows to access Sitecore context data. Uses `useSitecoreContext` hook.
-   Sample of usage `sitecoreContext.pageEditing` - checks if page is in edit mode.
-
-⟹ Write a clear description of your hackathon entry. TO BE DONE.
-
-
-
-- Module Purpose
-
-- What problem was solved (if any)
-
-- How does this module solve it
-
-
-
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
-
-
-
 ## Video link
 
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
@@ -124,8 +88,31 @@ In order to stop and remove running containers: ./down.ps1
 In order to clean docker data, database files and index files run the following: ./docker/clean.ps1
 This assumes you are placed at (repo folder path)/Ererenderingdering/ path.
 
-
 ## Usage instructions
+
+1. Install environment using provided intstructions. It can be ported to any environment, but it will be easier to use provided environment.
+1. Create new rendering variant for any rendering
+1. Fill `Jsx` field with 
+
+### Supported JSX syntax
+
+#### Supported JSX components
+
+1. `JssImage` - renders an image from Sitecore media library
+  Sample of usage `<JssImage field={props.fields.Image} />`
+2. `JssLink` - renders a link from Sitecore
+  Sample of usage `<JssLink field={props.fields.Link} />`
+3. `Text` - renders a text field from Sitecore
+  Sample of usage `<Text field={props.fields.Title} />`
+4. `RichText` - renders a rich text field from Sitecore
+  Sample of usage `<RichText field={props.fields.Description} />`
+
+#### Available bindings
+
+1. `props` - component props. Allows to access Sitecore fields and other data
+   Sample of usage `props.fields.Title`
+2. `sitecoreContext` - Sitecore context. Allows to access Sitecore context data. Uses `useSitecoreContext` hook.
+   Sample of usage `sitecoreContext.pageEditing` - checks if page is in edit mode.
 
 ⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
 
