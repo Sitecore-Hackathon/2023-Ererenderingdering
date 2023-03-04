@@ -1,8 +1,8 @@
 ﻿---
-ID: "6ebecb1d-7071-5cca-b8eb-4fcc8e0b7954"
-Parent: "e3a72a18-488d-521a-8bd3-34a5a48c9757"
+ID: "0317d2dc-928a-4d66-93a3-322e9c5db467"
+Parent: "3c853657-7c60-4c20-8d62-e625dd2aca2e"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: /sitecore/media library/ererenderingdering/data/media
+Path: /sitecore/media library/Project/Ererenderingdering/ErerenderingderingSXA
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230304T070429Z
+      Value: 20230304T105921Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5c3c2058-844b-4eed-bdff-a38434050ab3"
+      Value: "0cdc270c-bce7-43b8-b816-48ee1b12b395"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T070429Z
+      Value: 20230304T105921Z
