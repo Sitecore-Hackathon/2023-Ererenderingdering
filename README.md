@@ -1,16 +1,56 @@
 ## Team name
 
-⟹ Ererenderingdering
-
-
+Ererenderingdering
 
 ## Category
 
-⟹ -   Best enhancement to SXA Headless
-
-
+Best enhancement to SXA Headless
 
 ## Description
+
+**The main goal of our submission is ability to add JSX code to pages on a fly using rendering variants.**
+
+Headless SXA 10.3 introduced new nice feature - rendering variants. It allows to create different variants of the same rendering. But is is not feature equal if we compare with "classic" SXA. There are few differences:
+
+- it is only possible to add code in JSX/TSX files of your FE application. You can't add code in the rendering variant itself.
+
+- it doesn't have ability to use any templates engine like Scriban. Experience Editors are not able to put HTML onto the page. Even small urgent changes require developers involvement.
+  
+- you can't scaffold new rendering variant only in a browser.
+
+We decided to make rendering variant more feature equal to "classic" SXA. We decided to add templates engine to rendering variants, because it is the most flexible thing. Everything was possible to do with Scriban. But as we already use React on the frontend, we don't need to use Scriban. We can use JSX templates engine.
+
+### How it works
+
+1. Now each rendering variant has JSX field
+![Jsx field](Docs/images/Flow.png)
+1. This field can containt valid JSX code, similar to React components on the frontend project. It may use Sitecore JSS components `jssImage`, `jssLink`, `Text` and `RichText`. Also you can use `props` and `sitecoreContext` variables.
+1. If you fill JSX field then latyout service output will be modified. You will get `JSX` as a rendering variant name. And you will get additional `VariantJsx` field.
+![Jsx field](Docs/images/LayoutService.png)
+1. If custom output is present in layout service output then custom `Jsx` component will be called by component factory.
+1. This component will take JSX template and will pass props and Sitecore context to it.
+1. Output will be rendered by React.
+1. Solution is content resolver agnosticss. It should work with any content resolvers, including GraphQL or your custom one.
+
+### Supported JSX syntax
+
+#### Supported JSX components
+
+1. `JssImage` - renders an image from Sitecore media library
+  Sample of usage `<JssImage field={props.fields.Image} />`
+2. `JssLink` - renders a link from Sitecore
+  Sample of usage `<JssLink field={props.fields.Link} />`
+3. `Text` - renders a text field from Sitecore
+  Sample of usage `<Text field={props.fields.Title} />`
+4. `RichText` - renders a rich text field from Sitecore
+  Sample of usage `<RichText field={props.fields.Description} />`
+
+#### Available bindings
+
+1. `props` - component props. Allows to access Sitecore fields and other data
+   Sample of usage `props.fields.Title`
+2. `sitecoreContext` - Sitecore context. Allows to access Sitecore context data. Uses `useSitecoreContext` hook.
+   Sample of usage `sitecoreContext.pageEditing` - checks if page is in edit mode.
 
 ⟹ Write a clear description of your hackathon entry. TO BE DONE.
 
@@ -69,7 +109,7 @@ Also make sure you have the following list of ports free- 443, 8984.
 
 1. In Powershell:
    
-   cd (repo folder path)/Ererenderingdering/src/rendering   
+   cd (repo folder path)/Ererenderingdering/src/rendering
    npm install
 2. cd (repo folder path)/Ererenderingdering/
 3. .\init.ps1 -InitEnv -LicenseXmlPath "C:\path\to\license.xml" -AdminPassword "(desired password)" -Topology "xm1"
