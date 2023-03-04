@@ -1,13 +1,13 @@
 ﻿---
-ID: "8abd5d29-a93e-46ff-bd5a-2bc7299fd208"
-Parent: "d21e5341-62f1-47cb-a6d9-b8e05ac2f1e7"
+ID: "661a0abb-2b13-4bea-a74b-baae3eb095dc"
+Parent: "16e1b2f0-6769-466c-9867-5ba80af1ef52"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
-Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Presentation/Headless Variants/Title/Default
-BranchID: "3f7de82f-366f-4708-a1fe-9b0a42862492"
+Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Presentation/Headless Variants/RichText/variant1
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
-  Value: "{17537200-43DF-4384-85AD-8C795BB461E6}"
+  Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
 Languages:
 - Language: en
   Versions:
@@ -26,15 +26,18 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b8b023cb-4024-4e22-95b9-3a6e55280bab"
+      Value: "cbb5740c-93c6-4fda-9720-37ae32885d42"
     - ID: "8d4aa8a0-68b4-4ec4-b88c-08beec780414"
       Hint: Jsx
       Value: |
-        <h1 style={{marginLeft:"200px"}}> Presentation JSX </h1>
+        <br/>
+        <p style={{color:"grey",fontSize:"24px"}}>Welcome to our presentation on Sitecore Headless SXA</p>
+        
+        
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T172557Z
+      Value: 20230304T172448Z

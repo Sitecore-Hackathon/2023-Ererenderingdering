@@ -21,11 +21,33 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2245bf44-095b-4c63-8984-0a5a8112fa67"
+      Value: "0da713fb-691b-4a45-b5fb-7543e62c0722"
+    - ID: "8d4aa8a0-68b4-4ec4-b88c-08beec780414"
+      Hint: Jsx
+      Value: |
+        <div style={{marginBottom:"40px",marginLeft:"100px"}}  className={`component image ${props.params.styles}`} id={ props.params.RenderingIdentifier ?  props.params.RenderingIdentifier : undefined}>
+                <div className="component-content">
+                 {sitecoreContext.pageState === 'edit' ? (
+                           <JssImage field={props.fields.Image} />
+                          ) : (
+                            <JssLink field={props.fields.TargetUrl}>
+                                                <JssImage field={props.fields.Image} />
+        
+                            </JssLink>
+                          )}
+                    <Text
+        style={{fontSize:"24px",color:"brown"}} 
+        
+                    tag="span"
+                    className="image-caption field-imagecaption"
+                    field={props.fields.ImageCaption}
+                  />
+                    </div>
+              </div>
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T112743Z
+      Value: 20230304T173013Z

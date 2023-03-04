@@ -26,11 +26,17 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c5cc0232-cb5b-4cdd-9c7e-40f9b7729eaa"
+      Value: "9796468e-671e-4599-b910-2eba4e58490a"
+    - ID: "8d4aa8a0-68b4-4ec4-b88c-08beec780414"
+      Hint: Jsx
+      Value: |
+        <p  style={{color:"orange",fontSize:"22px"}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has </p>
+        <p  style={{color:"green",fontSize:"20px"}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been </p>
+        
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T105928Z
+      Value: 20230304T172635Z
