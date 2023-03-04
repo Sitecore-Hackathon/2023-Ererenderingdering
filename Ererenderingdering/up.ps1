@@ -101,16 +101,6 @@ if (Test-Path .\src\items\content) {
         Write-Error "Serialization push failed, see errors above."
     }
 
-    Write-Host "Deploying JSS application..." -ForegroundColor Green
-    Push-Location src\rendering
-    try {
-        jss deploy items -c -d
-    } finally {
-        Pop-Location
-    }
-    if ($LASTEXITCODE -ne 0) {
-        Write-Error "JSS deploy failed, see errors above."
-    }
     dotnet sitecore publish
     if ($LASTEXITCODE -ne 0) {
         Write-Error "Item publish failed, see errors above."
