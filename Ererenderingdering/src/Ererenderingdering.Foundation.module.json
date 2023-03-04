@@ -1,10 +1,10 @@
 {
-    "namespace": "Ererenderingdering",
+    "namespace": "Ererenderingdering.Foundation",
     "references": [ "InitItems" ],
     "items": {
         "includes": [
             {
-                "name": "templates",
+                "name": "foundation templates",
                 "path": "/sitecore/templates/Foundation/Ererenderingdering"
             },
             {
