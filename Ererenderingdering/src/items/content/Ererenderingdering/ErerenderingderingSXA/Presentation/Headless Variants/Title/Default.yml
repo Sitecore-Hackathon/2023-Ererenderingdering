@@ -1,8 +1,8 @@
 ﻿---
-ID: "f2eb0df3-37a5-422b-aba6-aac3bced52fd"
-Parent: "88ca3200-2047-455f-998f-974fe3ae1b7f"
-Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
-Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Home/Data/Image 4
+ID: "d52108ba-4563-4082-8da6-00e9f0773814"
+Parent: "d21e5341-62f1-47cb-a6d9-b8e05ac2f1e7"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Presentation/Headless Variants/Title/Default
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230304T161823Z
+      Value: 20230304T183423Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e700ae51-2214-4c84-92cd-b8ce4166a88a"
+      Value: "843423ab-88f1-4247-aba7-e75dce4d1bb5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T161823Z
+      Value: 20230304T183423Z
