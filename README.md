@@ -91,8 +91,13 @@ This assumes you are placed at (repo folder path)/Ererenderingdering/ path.
 ## Usage instructions
 
 1. Install environment using provided intstructions. It can be ported to any environment, but it will be easier to use provided environment.
-1. Create new rendering variant for any rendering
-1. Fill `Jsx` field with 
+1. Create new rendering variant for any rendering (for example for Image)
+1. Fill `Jsx` field with valid `Jsx` code
+1. Save rendering variant
+1. Open any page in Experience Editor
+1. Add component that has rendering variant added in step 2.
+1. Select newly created rendering variant
+1. Save page 
 
 ### Supported JSX syntax
 
