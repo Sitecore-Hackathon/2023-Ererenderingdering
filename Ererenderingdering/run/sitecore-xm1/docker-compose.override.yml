@@ -170,4 +170,4 @@ services:
       ## Development Environment Optimizations
       SITECORE_DEVELOPMENT_PATCHES: DevEnvOn,CustomErrorsOff,HttpErrorsDetailed,DebugOn,DiagnosticsOff,InitMessagesOff,RobotDetectionOff
       Sitecore_AppSettings_exmEnabled:define: "no" # remove to turn on EXM
-    entrypoint: powershell.exe -Command "& C:\tools\entrypoints\iis\Development.ps1"
+    entrypoint: powershell.exe -Command "& C:\\tools\\entrypoints\\iis\\Development.ps1"
