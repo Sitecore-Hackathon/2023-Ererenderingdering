@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "..\\..\\docker\\deploy\\platform\\",
+    "apiKey": "982615FF-8F97-4656-960C-5A875230A001",
+    "deploySecret": "2B6DE4D149A2477DBCBEA12C702782A6",
+    "deployUrl": "https://cm.ererenderingdering.localhost/sitecore/api/jss/import",
+    "layoutServiceHost": "https://cm.ererenderingdering.localhost"
+  }
+}

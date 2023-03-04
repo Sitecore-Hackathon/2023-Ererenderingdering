@@ -1,0 +1,16 @@
+{
+    "namespace": "Ererenderingdering-Content",
+    "references": [ "Ererenderingdering" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/Ererenderingdering"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/ererenderingdering"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+﻿---
+ID: "42119363-b88f-563a-8513-0f675014333c"
+Parent: "5e9cf688-b515-537f-8922-af7b1b99a44c"
+Template: "cb51fae0-5584-58cb-991c-9f9b632b77cd"
+Path: "/sitecore/content/Ererenderingdering/home/styleguide/Page Components/styleguide-jss-tabs-538E4831-F157-50BB-AC74-277FCAC9FDDB-0-Styleguide-Layout-Tabs-Tab-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Layout-Tabs-Tab-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070429Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eca619fc-059a-4d1b-8b80-2958cead7e34"
+    - ID: "8d0ed747-153e-5466-859f-61195514b0c1"
+      Hint: title
+      Value: Tab 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070430Z
+    - ID: "e032a4e8-9550-575f-a318-93f08a6add5c"
+      Hint: content
+      Value: "<p>Tab 1 contents!</p>"

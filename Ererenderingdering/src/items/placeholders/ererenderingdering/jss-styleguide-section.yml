@@ -1,0 +1,55 @@
+﻿---
+ID: "059531b3-f173-5f4c-8def-8c1e86e23301"
+Parent: "8ddc5c6e-603d-59c8-9863-32e1e4dc8665"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/ererenderingdering/jss-styleguide-section"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-styleguide-section"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {2F03917F-9300-58C7-938B-D89349F49543}
+    {61A2BC60-C5EE-51FE-886E-D0395853B87D}
+    {45DA8D97-1D24-572F-AF51-86466BB47624}
+    {C36FB5C2-A916-53F8-9001-7555014D5E56}
+    {4C0B0677-B863-5B76-A2F8-20978D5B3FB5}
+    {79A839F4-BDB5-5CCC-891F-66F30004BD92}
+    {06709167-B7A2-5B14-AB9C-3834ECDD8D79}
+    {5BC65EBF-55A1-5DBD-97F5-43742F00CD10}
+    {AD9184C7-6793-58F9-85DF-4086FE17167E}
+    {7C443C68-16CD-5AFB-8063-39000203AAF6}
+    {5CAD7692-712B-5E3A-86D3-86B8EE70AB5E}
+    {2D188818-C342-5786-9E4E-6B70B8C50799}
+    {0E1ED6F6-9C30-522F-A43C-78901F0F280B}
+    {7463D6E9-FF7C-51FA-A021-79364C6BC526}
+    {4A92B44C-FF0B-53A5-973D-B4CB62A4B25D}
+    {1EC94127-E633-5129-AA64-4237E066BD93}
+    {6C375056-AB1F-5970-9182-046BDD152F7F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d92d831-afa5-4be7-a6b0-9965f4a9a900"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070427Z
