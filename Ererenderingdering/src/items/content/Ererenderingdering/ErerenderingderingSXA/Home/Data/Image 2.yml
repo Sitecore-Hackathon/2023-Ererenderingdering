@@ -16,7 +16,7 @@ Languages:
       Value: 20230304T110940Z
     - ID: "4d7b05d0-0300-486f-8f87-57de34a9b793"
       Hint: ImageCaption
-      Value: Ukrainian kitty
+      Value: Ukrainian kitty 1
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -24,7 +24,7 @@ Languages:
     - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
       Hint: Image
       Value: |
-        <image mediaid="{43B6496D-22CB-47BE-BD36-CDE1CA927360}" />
+        <image mediaid="{D24EE045-1D06-4699-A17B-094042715031}" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -35,11 +35,11 @@ Languages:
         <link linktype="external" text="Cute kitty" url="https://savelife.in.ua/en/" anchor="" target="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "65643dce-8a0f-4e2d-826c-65c88068a437"
+      Value: "d574d298-97b4-47ce-bb9e-16781f376ba9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T191024Z
+      Value: 20230304T211852Z
