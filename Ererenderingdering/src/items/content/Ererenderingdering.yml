@@ -1,16 +1,40 @@
 ﻿---
-ID: "5b60db2d-1b36-5b34-8fb2-e735a07b7969"
+ID: "844b3c5c-b6bd-4cc6-8fee-d7e011875c0b"
 Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
-Template: "061cba15-5474-4b91-8a06-17903b102b82"
+Template: "77cccc5c-c880-4d22-b428-d3d0f6da5d91"
 Path: /sitecore/content/Ererenderingdering
+BranchID: "2d3805b9-3089-44f3-b952-d45c44add7f8"
 SharedFields:
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Value: "{EB9EC879-7F6C-50B0-8C69-6059C00A8929}"
-- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
-  Hint: __Security
+- ID: "102b58da-2a86-4953-b3cd-c9f91256b657"
+  Hint: PlaceholderSettingsFolder
+  Value: "{8DDC5C6E-603D-59C8-9863-32E1E4DC8665}"
+- ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
+  Hint: Modules
   Value: |
-    au|sitecore\JssImport|p*|+item:delete|+item:write|
+    {02CD7086-1F87-41EC-B40F-B92C1226895B}
+    {7B81B847-1891-43B2-BC13-5047A62EC32A}
+    {7BAAA4FC-3051-442D-9BD2-AD720B655E0B}
+    {0DC2E395-4A95-4773-88CA-75B22A130849}
+    {4346A98A-D6E9-491E-A0ED-CD12F524CF4E}
+    {4CBC64BF-8116-48A1-ABAC-DB19103897A6}
+    {7574F439-0B48-48BE-BA6B-94B1A3CE01A3}
+    {D912C30C-7A98-4A8D-A094-611D9AF9605D}
+    {6DE1F4E9-815D-491D-923D-D5038100DBEE}
+- ID: "800dc4ed-0846-45ba-b112-19902af240f6"
+  Hint: SharedMediaLibrary
+  Value: "{87E59F29-4B59-43ED-B125-6E86AD8B847C}"
+- ID: "853b245f-53e4-4ebe-bab5-299f9de314b6"
+  Hint: RenderingsFolder
+  Value: "{3565E99D-1EE3-5FB7-9A7D-003961311761}"
+- ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
+  Hint: Templates
+  Value: "{9CFC8C9B-768F-567A-95C1-35C2CBFDB980}"
+- ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
+  Hint: MediaLibrary
+  Value: "{3C853657-7C60-4C20-8D62-E625DD2ACA2E}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8453C078-6D17-4817-9230-91654AFE69C6}"
 Languages:
 - Language: en
   Versions:
@@ -18,22 +42,18 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230304T070419Z
+      Value: 20230304T105800Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\JssImport
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "81d3cf94-6fd0-4b26-8c90-75daad91a98b"
+      Value: "9b521bfc-662e-4864-b80e-21ee5226effd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T070419Z
+      Value: 20230304T105802Z
