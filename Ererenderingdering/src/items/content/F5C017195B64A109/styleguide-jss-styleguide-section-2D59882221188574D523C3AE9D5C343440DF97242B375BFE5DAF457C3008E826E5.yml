@@ -1,0 +1,33 @@
+﻿---
+ID: "b164dd63-f50a-5bbb-a9df-0d330b105612"
+Parent: "5e9cf688-b515-537f-8922-af7b1b99a44c"
+Template: "25e1d32e-9954-50b8-9467-d73097cf38de"
+Path: "/sitecore/content/Ererenderingdering/home/styleguide/Page Components/styleguide-jss-styleguide-section-2D59882221188574D523C3AE9D5C343440DF97242B375BFE5DAF457C3008E826E5"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-ComponentParams-3"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070430Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fac831a6-8c29-44aa-b6f8-ea079be773ce"
+    - ID: "8d72e614-22d5-5cce-a618-bf5e9683ff07"
+      Hint: description
+      Value: "<p><small>Component params (also called Rendering Parameters) allow storing non-content parameters for a component. These params should be used for more technical options such as CSS class names or structural settings.</small></p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070430Z
+    - ID: "e593538e-1def-536a-a407-a6c5920ec441"
+      Hint: heading
+      Value: Component Params

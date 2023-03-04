@@ -1,0 +1,72 @@
+﻿---
+ID: "e8076ff7-adc4-5946-836a-97dd4a5bd0ce"
+Parent: "eb9ec879-7f6c-50b0-8c69-6059c00a8929"
+Template: "eb9ec879-7f6c-50b0-8c69-6059c00a8929"
+Path: /sitecore/templates/Project/ererenderingdering/App Route/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{EB9EC879-7F6C-50B0-8C69-6059C00A8929}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{9053A4BA-2140-545E-AC0F-0F5D308FECA7}">
+        <p
+          uid="{51804B1C-7DF5-5B48-A314-328A92CBA81A}"
+          key="jss-main"
+          md="{9EC1CAB8-C18D-5F7E-B028-8326C26358AE}" />
+        <p
+          uid="{14FBC5D0-756D-5E30-AAFF-7E80822BE0DC}"
+          key="jss-tabs"
+          md="{956025A0-5B5E-581F-8BE4-E62AFB7BD845}" />
+        <p
+          uid="{A722B22F-A899-5C9B-8D34-A3B3528F9CAD}"
+          key="jss-graphql-layout"
+          md="{87FB2212-F082-5B62-A8D5-56D48AE583D3}" />
+        <p
+          uid="{41EDDBD5-E8E1-58CC-B564-CBB3A787403C}"
+          key="jss-styleguide-layout"
+          md="{FEE4E58D-CE58-573E-936F-8EBD21AC5B95}" />
+        <p
+          uid="{79F4C9EF-9457-57AA-8C55-1B09B7F70389}"
+          key="jss-styleguide-section"
+          md="{059531B3-F173-5F4C-8DEF-8C1E86E23301}" />
+        <p
+          uid="{5C445F6C-1401-554E-A397-CE955CF53770}"
+          key="jss-header"
+          md="{3D381A0D-C0BC-5D10-867A-45A50CB661D3}" />
+        <p
+          uid="{2386EA13-7182-550D-953E-3703B971ED34}"
+          key="jss-reuse-example"
+          md="{F1A8F6D3-9072-5445-BC0B-6011CE104365}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070420Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0495705e-2574-4e1c-8910-41231601a99c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070428Z

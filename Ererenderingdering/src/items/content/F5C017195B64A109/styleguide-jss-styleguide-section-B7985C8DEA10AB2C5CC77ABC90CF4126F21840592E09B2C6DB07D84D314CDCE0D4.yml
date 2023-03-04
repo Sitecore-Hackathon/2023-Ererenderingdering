@@ -1,0 +1,52 @@
+﻿---
+ID: "19c0ff51-3a53-5a1a-b99e-5c9e0f221bf7"
+Parent: "5e9cf688-b515-537f-8922-af7b1b99a44c"
+Template: "a32aa927-5b25-52dc-a939-c62a9fb91023"
+Path: "/sitecore/content/Ererenderingdering/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070429Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd4ce463-947c-45c8-9088-8155cd592ade"
+    - ID: "8d223398-4efb-5f49-bc88-aef082e2937d"
+      Hint: sharedContentList
+      Value: |
+        {1635A8BA-6B7D-540C-896A-FAFC1D2CB317}
+        {A1B04885-7923-5919-B951-A8756EF00869}
+    - ID: "8d72e614-22d5-5cce-a618-bf5e9683ff07"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "af45f643-c773-5b4f-a578-7f4ddc765bc0"
+      Hint: localContentList
+      Value: |
+        {0DD7CE5B-17C7-5B93-94E9-DD0E8DD7AA14}
+        {F2CD5FCA-2A27-5B70-8C54-EDE580408325}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070429Z
+    - ID: "e593538e-1def-536a-a407-a6c5920ec441"
+      Hint: heading
+      Value: Content List

@@ -1,0 +1,30 @@
+﻿---
+ID: "a1b04885-7923-5919-b951-a8756ef00869"
+Parent: "a624af4f-2bff-58dd-9012-0794bb4848c4"
+Template: "d65064ae-a1f6-5dac-8f43-062e45bdbfbb"
+Path: /sitecore/content/Ererenderingdering/Content/Styleguide/ContentListField/Item2
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 2 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070428Z
+    - ID: "6f21bdf1-6609-5470-8232-6e2d491a28b6"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 2 Text Field
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e84c9bf-d02f-45f7-8208-1a38830c8a86"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070428Z

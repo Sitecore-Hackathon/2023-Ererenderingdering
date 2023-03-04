@@ -1,0 +1,42 @@
+﻿---
+ID: "018e7e5d-95db-586a-a5db-d11590f84ca1"
+Parent: "5e9cf688-b515-537f-8922-af7b1b99a44c"
+Template: "2ec44963-08a6-582f-92d3-67d4486c496d"
+Path: "/sitecore/content/Ererenderingdering/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7A4F8AD6E93A009B7A1F2DF9957E9F59E0069ECF65361BB997451C1257F427C02"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Date-8"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070429Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb58b733-4c2d-41fe-b6a3-d076d935f8bf"
+    - ID: "8d72e614-22d5-5cce-a618-bf5e9683ff07"
+      Hint: description
+      Value: |
+        <p><small>Both <code>Date</code> and <code>DateTime</code> field types are available. Choosing <code>DateTime</code> will make Sitecore show editing UI for time; both types store complete date and time values internally. Date values in JSS are formatted using <a href="https://en.wikipedia.org/wiki/ISO_8601#Combined_date_and_time_representations" target="_blank">ISO 8601 formatted strings</a>, for example <code>2012-04-23T18:25:43.511Z</code>.</small></p>
+        <div class="alert alert-warning"><small>Note: this is a JavaScript date format (e.g. <code>new Date().toISOString()</code>), and is different from how Sitecore stores date field values internally. Sitecore-formatted dates will not work.</small></div>
+        
+    - ID: "987e4a75-c7cf-56c9-a54a-26e6a23f9760"
+      Hint: dateTime
+      Value: 20180314T150000Z
+    - ID: "a14e1357-119d-5834-8bb0-7e8b8de6a033"
+      Hint: date
+      Value: 20120504T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070429Z
+    - ID: "e593538e-1def-536a-a407-a6c5920ec441"
+      Hint: heading
+      Value: Date

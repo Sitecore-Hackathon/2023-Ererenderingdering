@@ -1,0 +1,31 @@
+﻿---
+ID: "92d758e6-dade-5fb6-9d3e-d1c132c6af18"
+Parent: "c6c1e812-3986-5366-bba8-477ca7c57b28"
+Template: "c6c1e812-3986-5366-bba8-477ca7c57b28"
+Path: "/sitecore/templates/Project/ererenderingdering/Styleguide-Layout-Tabs/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230304T070425Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "295c8c27-839b-431a-bc4e-4819c3923130"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230304T070425Z

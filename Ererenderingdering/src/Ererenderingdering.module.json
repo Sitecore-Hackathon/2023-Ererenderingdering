@@ -1,0 +1,24 @@
+{
+    "namespace": "Ererenderingdering",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/ererenderingdering"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/ererenderingdering"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/ererenderingdering"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/ererenderingdering"
+            }
+        ]
+    }
+}
