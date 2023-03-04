@@ -1,8 +1,8 @@
 ﻿---
-ID: "a2fc8751-940c-4d75-a6e8-9e4d443a921d"
-Parent: "429a4ac4-e0bd-4558-98f7-0c2ad0937297"
-Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
-Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Presentation/Headless Variants/Image/Banner
+ID: "d2464e80-261e-4ba3-afac-eddeb2edb8ef"
+Parent: "88ca3200-2047-455f-998f-974fe3ae1b7f"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Home/Data/Text 2
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230304T113422Z
+      Value: 20230304T172256Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,14 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4f0fb365-a285-4601-adb0-6a6a942b1dcb"
-    - ID: "8d4aa8a0-68b4-4ec4-b88c-08beec780414"
-      Hint: Jsx
-      Value: <h1>Test JSX</h1>
+      Value: "f39c8988-57fd-4df3-a46b-db3a708ca040"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T154226Z
+      Value: 20230304T172256Z

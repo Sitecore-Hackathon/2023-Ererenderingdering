@@ -10,7 +10,7 @@ using Sitecore.LayoutService.Configuration;
 using Sitecore.LayoutService.Presentation.Pipelines.RenderJsonRendering;
 using Sitecore.Mvc.Presentation;
 
-namespace Ererenderingdering.Pipelines.RenderJsonRendering
+namespace Ererenderingdering.Foundation.VariantJsx.Pipelines.RenderJsonRendering
 {
     public class HandleJsxVariant : BaseRenderJsonRendering
     {

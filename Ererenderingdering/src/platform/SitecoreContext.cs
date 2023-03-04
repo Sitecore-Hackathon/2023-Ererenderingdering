@@ -1,7 +1,7 @@
 ﻿using Sitecore;
 using Sitecore.Data;
 
-namespace Ererenderingdering
+namespace Ererenderingdering.Foundation.VariantJsx
 {
     public class SitecoreContext : ISitecoreContext
     {
