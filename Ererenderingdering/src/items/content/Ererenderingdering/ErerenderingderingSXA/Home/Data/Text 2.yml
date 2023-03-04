@@ -24,14 +24,14 @@ Languages:
         sitecore\Admin
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: <p>Subtitle</p>
+      Value: <strong>Subtitle</strong>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "07314c2b-25a0-4b46-b3f6-7ba61d8eac7f"
+      Value: "c377d9bc-1248-4452-98dc-5aa31d43a5bd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T205043Z
+      Value: 20230304T223101Z

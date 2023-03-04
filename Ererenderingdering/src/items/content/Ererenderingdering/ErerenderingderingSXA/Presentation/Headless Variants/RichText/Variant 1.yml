@@ -26,11 +26,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "75698d45-ba93-451b-90f2-53286b7491a7"
+      Value: "5e8ff801-c29c-40f9-a3b7-84dfc2600241"
     - ID: "8d4aa8a0-68b4-4ec4-b88c-08beec780414"
       Hint: Jsx
       Value: |
-        <p  style={{color:"orange",fontSize:"22px"}}><RichText field={props.fields.Text}/> </p>
+        <div  style={{color:"orange",fontSize:"22px"}}><RichText field={props.fields.Text}/> </div>
         
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
@@ -38,4 +38,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T211528Z
+      Value: 20230304T223339Z
