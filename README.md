@@ -23,10 +23,10 @@ We decided to make rendering variant more feature equal to "classic" SXA. We dec
 ### How it works
 
 1. Now each rendering variant has JSX field
-![Jsx field](Docs/images/Flow.png?raw=true "Jsx field")
+![Jsx field](docs/images/Flow.png?raw=true "Jsx field")
 1. This field can containt valid JSX code, similar to React components on the frontend project. It may use Sitecore JSS components `jssImage`, `jssLink`, `Text` and `RichText`. Also you can use `props` and `sitecoreContext` variables.
 1. If you fill JSX field then latyout service output will be modified. You will get `JSX` as a rendering variant name. And you will get additional `VariantJsx` field.
-![Jsx field](Docs/images/LayoutService.png?raw=true "Layout Service")
+![Layout Service](docs/images/LayoutService.png?raw=true "Layout Service")
 1. If custom output is present in layout service output then custom `Jsx` component will be called by component factory.
 1. This component will take JSX template and will pass props and Sitecore context to it.
 1. Output will be rendered by React.
