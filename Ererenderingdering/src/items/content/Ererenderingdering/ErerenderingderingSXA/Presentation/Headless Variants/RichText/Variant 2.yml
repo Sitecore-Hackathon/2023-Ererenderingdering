@@ -1,13 +1,13 @@
 ﻿---
-ID: "0a40c702-9b7b-4880-ab71-cb92489e7d6f"
-Parent: "7a39b49e-d755-4763-aa3e-224255106adb"
+ID: "661a0abb-2b13-4bea-a74b-baae3eb095dc"
+Parent: "16e1b2f0-6769-466c-9867-5ba80af1ef52"
 Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
-Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Presentation/Headless Variants/PageContent/Variant 1
-BranchID: "5abe3762-5a9c-4710-9730-bb302e90fd13"
+Path: /sitecore/content/Ererenderingdering/ErerenderingderingSXA/Presentation/Headless Variants/RichText/Variant 2
+BranchID: "6d954d26-5ba2-4e17-9260-28fdc6b057d0"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
-  Value: "{E9B59BC9-57CB-43AC-8FD7-F9A676B0C46F}"
+  Value: "{DF1847D5-271E-47E0-8630-8E9BEAFE60B3}"
 Languages:
 - Language: en
   Versions:
@@ -26,11 +26,17 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d5befeb6-03c8-4e6b-b935-e18324f752db"
+      Value: "611a45e2-dcaa-4aba-ab84-86a9e3c9e7cd"
+    - ID: "8d4aa8a0-68b4-4ec4-b88c-08beec780414"
+      Hint: Jsx
+      Value: |
+        <p style={{color:"grey",fontSize:"24px"}}><Text field={props.fields.Text}/> </p>
+        
+        
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T105928Z
+      Value: 20230304T204943Z

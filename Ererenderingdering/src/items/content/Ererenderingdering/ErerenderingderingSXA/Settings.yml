@@ -22,7 +22,7 @@ SharedFields:
   Value: "{B86B99D4-A749-4FB0-86A1-3FD410BE4254}"
 - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
   Hint: Name
-  Value: ErerenderingderingSXA
+  Value: Ererenderingderingsxa
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
   Value: "{3A7C3E68-8AF2-402B-BC87-E535DD919BAA}"
@@ -76,11 +76,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a2253507-d997-4c7c-88d2-1b7e67480059"
+      Value: "2e91dd06-ffc0-4bb6-96c2-df8957248559"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T110305Z
+      Value: 20230304T184259Z

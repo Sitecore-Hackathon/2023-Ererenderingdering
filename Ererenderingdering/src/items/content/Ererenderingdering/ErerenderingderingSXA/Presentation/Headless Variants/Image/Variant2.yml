@@ -21,38 +21,34 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "786c8317-870d-46ed-bc34-43fa7c38e6fa"
+      Value: "6a31c86f-c878-46af-a4b4-a40a629857c7"
     - ID: "8d4aa8a0-68b4-4ec4-b88c-08beec780414"
       Hint: Jsx
       Value: |
         <div style={{marginLeft:"100px"}} className={`component image ${props.params.styles}`} id={ props.params.RenderingIdentifier ?  props.params.RenderingIdentifier : undefined}>
-                <div style={{width:"400px",border:"1px solid green",padding:"10px"}} className="component-content">
-                 
-         <Text
-        style={{fontSize:"30px"}} 
-                    tag="span"
-                    className="image-caption field-imagecaption"
-                    field={props.fields.ImageCaption}
-                  />
-        {sitecoreContext.pageState === 'edit' ? (
-                           <JssImage field={props.fields.Image} />
-                          ) : (
-                            <JssLink field={props.fields.TargetUrl}>
-                                                <JssImage field={props.fields.Image} />
-        
-                            </JssLink>
-                          )}
-                   <div className="field-link">
-              <JssLink field={props.fields.TargetUrl}/>
-                
-                   
+           <div style={{width:"400px",border:"1px solid green",padding:"10px"}} className="component-content">
+              <Text
+                 style={{fontSize:"30px"}} 
+                 tag="span"
+                 className="image-caption field-imagecaption"
+                 field={props.fields.ImageCaption}
+                 />
+              {sitecoreContext.pageState === 'edit' ? (
+              <JssImage field={props.fields.Image} />
+              ) : (
+              <JssLink field={props.fields.TargetUrl}>
+                 <JssImage field={props.fields.Image} />
+              </JssLink>
+              )}
+              <div className="field-link">
+                 <JssLink field={props.fields.TargetUrl}/>
               </div>
-                    </div>
-              </div>
+           </div>
+        </div>
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T173441Z
+      Value: 20230304T183013Z

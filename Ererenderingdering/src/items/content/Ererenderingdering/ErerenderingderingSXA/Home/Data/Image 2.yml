@@ -8,12 +8,15 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230304T110940Z
     - ID: "4d7b05d0-0300-486f-8f87-57de34a9b793"
       Hint: ImageCaption
-      Value: Variant for SECOND JSX
+      Value: Ukrainian kitty
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,7 +24,7 @@ Languages:
     - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
       Hint: Image
       Value: |
-        <image mediaid="{6ADDFFA9-5562-4301-8EC3-EFB41111DD25}" />
+        <image mediaid="{43B6496D-22CB-47BE-BD36-CDE1CA927360}" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -29,14 +32,14 @@ Languages:
     - ID: "75fbf1b1-e7c5-494b-9633-693909f79425"
       Hint: TargetUrl
       Value: |
-        <link text="LINK FOR TEXT" linktype="external" url="https://www.google.com/" anchor="" target="" />
+        <link linktype="external" text="Cute kitty" url="https://savelife.in.ua/en/" anchor="" target="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5e49b68f-e2e7-4927-beea-c0f794b18f49"
+      Value: "65643dce-8a0f-4e2d-826c-65c88068a437"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T163844Z
+      Value: 20230304T191024Z

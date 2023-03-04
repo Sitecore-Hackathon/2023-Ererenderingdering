@@ -23,7 +23,7 @@ SharedFields:
     {F0EA389E-F78D-440B-9429-F04FE735344A}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
-  Value: "{82B549E8-2984-4723-874E-CD7B39A32DB9}"
+  Value: "{8A3E2E99-06E5-4D30-A164-6B58880EFA9A}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{0317D2DC-928A-4D66-93A3-322E9C5DB467}"
@@ -48,11 +48,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0aab9955-4886-4be1-bdc3-afcfb117dc6f"
+      Value: "2cf945eb-451f-4eba-9b6e-ede1e2032257"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Anonymous
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230304T112919Z
+      Value: 20230304T204515Z
