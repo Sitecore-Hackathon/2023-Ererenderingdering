@@ -73,6 +73,12 @@
     <None Include="README.md" />
     <None Include="web.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DependencyInjection\ServicesConfigurator.cs" />
+    <Compile Include="ISitecoreContext.cs" />
+    <Compile Include="Pipelines\RenderJsonRendering\HandleJsxVariant.cs" />
+    <Compile Include="SitecoreContext.cs" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

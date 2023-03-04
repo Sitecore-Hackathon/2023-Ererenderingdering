@@ -1,0 +1,17 @@
+{
+    "namespace": "Ererenderingdering",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Foundation/Ererenderingdering"
+            },
+            {
+                "name": "variant definition override",
+                "path": "/sitecore/templates/Foundation/JSS Experience Accelerator/Headless Variants/Variant Definition",
+                "scope": "singleItem"
+            }
+        ]
+    }
+}
