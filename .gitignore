@@ -18,6 +18,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+package.json
+package-lock.json
 
 #Ignore thumbnails created by Windows
 Thumbs.db
