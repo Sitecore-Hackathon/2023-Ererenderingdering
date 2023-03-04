@@ -8,7 +8,7 @@ Best enhancement to SXA Headless
 
 ## Description
 
-**The main goal of our submission is ability to add JSX code to pages on a fly using rendering variants.**
+**The main goal of our submission is the ability to add JSX code to pages on the fly using rendering variants.**
 
 Headless SXA 10.3 introduced new nice feature - rendering variants. It allows to create different variants of the same rendering. But is is not feature equal if we compare with "classic" SXA. There are few differences:
 
