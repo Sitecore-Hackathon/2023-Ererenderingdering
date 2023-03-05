@@ -37,15 +37,7 @@ We decided to make rendering variant more feature equal to "classic" SXA. We dec
 
 ## Video link
 
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
-
-
-
-⟹ [Replace this Video link](#video-link)
-
-
-
-
+[Sitecore Hackathon 2023. Ererenderingdering team.](https://www.youtube.com/watch?v=aKrZ11SbV78)
 
 ## Pre-requisites and Dependencies
 
@@ -118,35 +110,3 @@ This assumes you are placed at (repo folder path)/Ererenderingdering/ path.
    Sample of usage `props.fields.Title`
 2. `sitecoreContext` - Sitecore context. Allows to access Sitecore context data. Uses `useSitecoreContext` hook.
    Sample of usage `sitecoreContext.pageEditing` - checks if page is in edit mode.
-
-⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
-
-
-
-Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
-
-
-
-![Hackathon Logo](docs/images/hackathon.png?raw=true  "Hackathon Logo")
-
-
-
-You can embed images of different formats too:
-
-
-
-![Deal With It](docs/images/deal-with-it.gif?raw=true  "Deal With It")
-
-
-
-And you can embed external images too:
-
-
-
-![Random](https://thiscatdoesnotexist.com/)
-
-
-
-## Comments
-
-If you'd like to make additional comments that is important for your module entry.
